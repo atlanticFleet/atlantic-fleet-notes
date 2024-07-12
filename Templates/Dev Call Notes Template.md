@@ -1,6 +1,6 @@
 # Date/Time
 
-- Sunday, 2024-07-14
+- Sunday, {{title}}
 - 9 AM, Pacific time
 
 # Attendees
@@ -17,3 +17,4 @@
 # Notes
 
 TBD
+
